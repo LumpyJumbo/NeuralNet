@@ -1,0 +1,43 @@
+MASE = 0.9729262494615146
+
+Average daily profit = 0.019%
+Average daily profit (no trade) = 0.031%
+
+Standard deviation = 0.725 pp
+2 std confidence interval = [-1.431%, 1.468%]
+[min,max] = [-3.286%, 4.959%]
+
+Profit at the end of exercise = 6.74%
+Profit at the end of exercise without trading = 10.87%
+Theoretical maximum profit at the end of exercise = 214.81%
+-----------------------------------------------------------------
+Weighted Investment Strategy:
+
+Average daily profit = 0.025%
+
+Standard deviation = 0.653 pp
+2 std confidence interval = [-1.28%, 1.331%]
+[min,max] = [-2.88%, 4.897%]
+
+Profit at the end of exercise = 9.08%
+-----------------------------------------------------------------
+50/50 Investment:
+
+Average daily profit = 0.016%
+
+Standard deviation = 0.475 pp
+2 std confidence interval = [-0.933%, 0.965%]
+[min,max] = [-1.643%, 2.48%]
+
+Profit at the end of exercise = 5.69%
+-----------------------------------------------------------------
+0/100 Investment:
+
+Average daily profit = 0.03%
+
+Standard deviation = 0.949 pp
+2 std confidence interval = [-1.868%, 1.928%]
+[min,max] = [-3.286%, 4.959%]
+
+Profit at the end of exercise = 10.87%
+-----------------------------------------------------------------

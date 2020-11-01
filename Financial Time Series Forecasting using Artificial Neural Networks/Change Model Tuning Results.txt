@@ -1,0 +1,22 @@
+Window = 35
+Latent dimension = 85
+Autoencoder iterations = 3000
+Finetuning iterations = 1000
+LSTM layer size = 120
+LSTM iterations = 6000
+
+MASE = 1.2733715528967224
+
+Average daily profit = 0.043%
+Average daily profit (no trade) = 0.048%
+
+Standard deviation = 0.623 pp
+2 std confidence interval = [-1.202%, 1.289%]
+[min,max] = [-4.098%, 2.716%]
+
+Profit at the end of exercise = 15.76%
+Profit at the end of exercise without trading = 17.39%
+Theoretical maximum profit at the end of exercise = 138.63%
+
+MASE2 = 1.274935296794459
+-----------------------------------------------------------------

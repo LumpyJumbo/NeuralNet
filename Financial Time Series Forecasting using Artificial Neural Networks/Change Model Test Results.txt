@@ -1,0 +1,47 @@
+MASE = 1.2755962248374153
+
+Average daily profit = 0.032%
+Average daily profit (no trade) = 0.031%
+
+Standard deviation = 0.79 pp
+2 std confidence interval = [-1.548%, 1.612%]
+[min,max] = [-3.286%, 4.959%]
+
+Profit at the end of exercise = 11.68%
+Profit at the end of exercise without trading = 10.87%
+Theoretical maximum profit at the end of exercise = 214.81%
+
+MASE2 = 1.0032367693039932
+
+MAE = 23.37864541201634
+
+MNE = 18.301962005952355
+
+STD = 21.00529914674809
+
+NSTD = 18.567547443149568
+
+RSD = 0.8984823019708242
+$round(,3)$
+NRSD = 1.01451130961319
+-----------------------------------------------------------------
+50/50 Investment:
+
+Average daily profit = 0.016%
+
+Standard deviation = 0.475 pp
+2 std confidence interval = [-0.933%, 0.965%]
+[min,max] = [-1.643%, 2.48%]
+
+Profit at the end of exercise = 5.69%
+-----------------------------------------------------------------
+0/100 Investment:
+
+Average daily profit = 0.03%
+
+Standard deviation = 0.949 pp
+2 std confidence interval = [-1.868%, 1.928%]
+[min,max] = [-3.286%, 4.959%]
+
+Profit at the end of exercise = 10.87%
+-----------------------------------------------------------------
